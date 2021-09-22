@@ -32,7 +32,7 @@ class Var(object):
             "1261589721").split())
     THUNDER_OWNER = set(
         int(x) for x in os.environ.get(
-            "THUNDER_OWNER",
+            "A_l_O_N_F_O_R_E_V_E_R",
             "1524091402").split())
     SUPPORT_USERS = set(
         int(x) for x in os.environ.get(
